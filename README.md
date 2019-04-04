@@ -40,3 +40,49 @@ Make an appointment with your TA to discuss your ideas before finalizing them. I
 should describe and argue your choices clearly and back them up with scientific literature. Next,
 perform a preliminary analysis (e.g. look at correlations) on the usefulness of the attributes you have
 defined
+
+# Task 2: Learn using the dataset (40 points)
+
+In the next step, we are going to use our dataset to create a predictive model. You can make your own
+choice whether you want to create individual models per patient or a single model for all patients. You
+will need to study three variants of predictive models:
+
+1. A variant where you use the pre-processed dataset you identified in Task 1 in combination with a
+machine learning technique you consider appropriate.
+2. A variant where you apply a learning algorithm that is able to cope with this temporal data (e.g.
+ARIMA, recurrent neural networks, etc.).
+3. Implement a benchmark: predict the mood on the next day by just saying it is the same as the
+previous day.
+
+Define a proper performance metric and create a solid evaluation setup. Describe and argue your
+choices again and show the results you have obtained. Create graphs to illustrate the performance in an
+insightful way.
+
+# Task 3: Evaluate and reflect on your results (20 points)
+
+Finally, analyse the results in detail both using a more statistical view and by means of your
+interpretation. Argue what the pros and cons of the different approaches are.
+Report
+We would like you as a group of 3 to prepare a report with the following in mind:
+
+• The report should be submitted via Canvas by 19/04/2019 17:00. This is a strict deadline, please
+try to respect that, otherwise points will be deducted.
+• Please format the document according to the lncs guidelines. The lncs format is used for scientific
+papers published by the Springer, where lncs stands for Lecture Notes in Computer Science, see
+http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0, Note that you don't need to
+include an abstract in your report. The paper should not exceed 8 pages. With the 8 pages limit, my
+aim is to challenge you to report only what is necessary.
+• Make sure we can identify your report, i.e., at least a subset of the (name, student number, vunetID) triplet should be in the document’s header.
+• Make an attempt to make the report look professional. Have a short introduction of your document,
+use appropriate language, etc. Let’s say, if you gave your report to the manager of your DM
+project at a company, they would need to be able to understand it and conclude that it’s a good
+project start.
+
+# Grading
+
+Marking will be based on the tasks as reflected by quality of the report (so content, style, etc. all
+matter). You can get maximum 100 marks for this assignment. You will need at least 55 to pass. You
+will receive 10 bonus points on top of your assignment grade for choosing the advanced assignment.
+Also, 100 points are only given to students whose reports are of exceptional quality, and they also
+should report something we did not specifically ask for (in other words, we value proactivity and
+creativity).
