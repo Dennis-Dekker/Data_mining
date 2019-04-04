@@ -65,15 +65,15 @@ interpretation. Argue what the pros and cons of the different approaches are.
 Report
 We would like you as a group of 3 to prepare a report with the following in mind:
 
-• The report should be submitted via Canvas by 19/04/2019 17:00. This is a strict deadline, please
+ - The report should be submitted via Canvas by 19/04/2019 17:00. This is a strict deadline, please
 try to respect that, otherwise points will be deducted.
-• Please format the document according to the lncs guidelines. The lncs format is used for scientific
+ - Please format the document according to the lncs guidelines. The lncs format is used for scientific
 papers published by the Springer, where lncs stands for Lecture Notes in Computer Science, see
 http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0, Note that you don't need to
 include an abstract in your report. The paper should not exceed 8 pages. With the 8 pages limit, my
 aim is to challenge you to report only what is necessary.
-• Make sure we can identify your report, i.e., at least a subset of the (name, student number, vunetID) triplet should be in the document’s header.
-• Make an attempt to make the report look professional. Have a short introduction of your document,
+ - Make sure we can identify your report, i.e., at least a subset of the (name, student number, vunetID) triplet should be in the document’s header.
+ - Make an attempt to make the report look professional. Have a short introduction of your document,
 use appropriate language, etc. Let’s say, if you gave your report to the manager of your DM
 project at a company, they would need to be able to understand it and conclude that it’s a good
 project start.
